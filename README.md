@@ -1,2 +1,2 @@
-# sd-at
-Identifica al usuario y la aplicación basado en el access token de Facebook
+# sd-id
+Identifies the user and application based facebook access token 
