@@ -1,0 +1,30 @@
+{
+  "name": "sd-id",
+  "version": "0.0.1",
+  "description": "Identifies the user and application based facebook access token.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/paulomcnally/sd-id.git"
+  },
+  "keywords": [
+    "facebook",
+    "accessToken",
+    "id",
+    "selfie",
+    "discount"
+  ],
+  "author": "Paulo McNally <paulomcnally@gmail.com>",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/paulomcnally/sd-id/issues"
+  },
+  "homepage": "https://github.com/paulomcnally/sd-id#readme",
+  "dependencies": {
+    "async": "1.5.0",
+    "request": "2.67.0"
+  }
+}
