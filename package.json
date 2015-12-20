@@ -1,6 +1,6 @@
 {
   "name": "sd-id",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "Identifies the user and application based facebook access token.",
   "main": "index.js",
   "scripts": {
